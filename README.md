@@ -1,1 +1,1 @@
-# MeridianBank
+# Meridian-Financial-Bank
